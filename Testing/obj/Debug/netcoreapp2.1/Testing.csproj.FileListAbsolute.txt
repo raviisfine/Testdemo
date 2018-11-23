@@ -1,0 +1,14 @@
+e:\Testing\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+e:\Testing\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+e:\Testing\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+e:\Testing\bin\Debug\netcoreapp2.1\Testing.deps.json
+e:\Testing\bin\Debug\netcoreapp2.1\Testing.runtimeconfig.json
+e:\Testing\bin\Debug\netcoreapp2.1\Testing.runtimeconfig.dev.json
+e:\Testing\bin\Debug\netcoreapp2.1\Testing.dll
+e:\Testing\bin\Debug\netcoreapp2.1\Testing.pdb
+e:\Testing\obj\Debug\netcoreapp2.1\Testing.csprojAssemblyReference.cache
+e:\Testing\obj\Debug\netcoreapp2.1\Testing.csproj.CoreCompileInputs.cache
+e:\Testing\obj\Debug\netcoreapp2.1\Testing.AssemblyInfoInputs.cache
+e:\Testing\obj\Debug\netcoreapp2.1\Testing.AssemblyInfo.cs
+e:\Testing\obj\Debug\netcoreapp2.1\Testing.dll
+e:\Testing\obj\Debug\netcoreapp2.1\Testing.pdb
